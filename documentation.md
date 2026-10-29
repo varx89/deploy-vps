@@ -2,7 +2,6 @@
 
 > 📘 **Scop:** transformarea unui singur VPS într-o platformă proprie de deploy pentru aplicații Docker, cu panou web, domenii proprii și HTTPS automat.
 >
-> 🔗 **Sursă:** adaptat după tutorialul [How to Install Dokploy on a VPS (Tony Teaches Tech)](https://tonyteaches.tech/install-dokploy-on-vps/)
 
 ---
 
