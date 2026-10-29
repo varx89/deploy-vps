@@ -94,8 +94,6 @@ ssh root@IP_VPS
 
 ## 🛠️ Pasul 3: Pregătirea serverului
 
-Un script automat de pe GitHub ([tonyflo/ttt-vps-scripts](https://github.com/tonyflo/ttt-vps-scripts)) aplică configurările de bază pe care începătorii le omit des.
-
 ### 📦 Ce face scriptul
 
 - 👤 Creează un utilizator normal (non-root) și îl adaugă în grupul `sudo`
