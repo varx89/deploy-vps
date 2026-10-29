@@ -109,7 +109,7 @@ Un script automat de pe GitHub ([tonyflo/ttt-vps-scripts](https://github.com/ton
 ### ▶️ Rulare
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tonyflo/ttt-vps-scripts/main/setup-docker.sh | bash
+curl -fsSL [https://raw.githubusercontent.com/tonyflo/ttt-vps-scripts/main/setup-docker.sh](https://raw.githubusercontent.com/varx89/deploy-vps/refs/heads/main/setup-docker.sh?token=GHSAT0AAAAAAEOIP6HW4KLJ6TU2BQZFWYZE2XDLU6A) | bash
 ```
 
 1. Alege un nume de utilizator (litere mici), de exemplu `admin`.
