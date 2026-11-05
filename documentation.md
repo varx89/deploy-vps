@@ -106,7 +106,7 @@ ssh root@IP_VPS
 ### ▶️ Rulare
 
 ```bash
-curl -fsSL [[https://raw.githubusercontent.com/tonyflo/ttt-vps-scripts/main/setup-docker.sh](https://raw.githubusercontent.com/varx89/deploy-vps/refs/heads/main/setup-docker.sh?token=GHSAT0AAAAAAEOIP6HW4KLJ6TU2BQZFWYZE2XDLU6A)](https://raw.githubusercontent.com/varx89/deploy-vps/refs/heads/main/setup-docker.sh?token=GHSAT0AAAAAAEOIP6HW4KLJ6TU2BQZFWYZE2XDLU6A) | bash
+curl -fsSL [https://raw.githubusercontent.com/varx89/deploy-vps/refs/heads/main/setup-docker.sh?token=GHSAT0AAAAAAEO6C3KO24CK3S2WU6NFWWQA2XMQXUA] (https://raw.githubusercontent.com/varx89/deploy-vps/refs/heads/main/setup-docker.sh?token=GHSAT0AAAAAAEO6C3KO24CK3S2WU6NFWWQA2XMQXUA) | bash
 ```
 
 1. Alege un nume de utilizator (litere mici), de exemplu `admin`.
