@@ -2,7 +2,7 @@
 
 SCRIPT_VERSION="v1.6"
 # ==============================================================================
-# Tony Teaches Tech's VPS Setup Script
+# Deploy VPS Setup Script v1.0
 # ==============================================================================
 # This script is designed to take a freshly provisioned Ubuntu or Debian VPS
 # and secure it while preparing it for Docker-based deployments.
@@ -89,7 +89,7 @@ command -v systemctl >/dev/null 2>&1 || die "Systemd required"
 # ============================================================
 
 echo -e "${BLUE}====================================================${NC}"
-echo -e "${GREEN}   VPS Setup Script ${SCRIPT_VERSION} by Tony Teaches Tech${NC}"
+echo -e "${GREEN}   VPS Setup Script ${SCRIPT_VERSION} ${NC}"
 echo -e "${BLUE}====================================================${NC}"
 echo
 echo "On a fresh VPS instance, this script:"
